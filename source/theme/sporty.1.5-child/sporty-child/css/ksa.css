@@ -70,7 +70,7 @@ button,
 input,
 select,
 textarea {
-	color: #666;
+	color: #333;
 }
 
 a, a:visited, a:focus, a:active {
@@ -84,7 +84,7 @@ a:hover {
 }
 
 #secondary li, #tertiary li{
-	color: #666;
+	color: #333;
 }
 
 #secondary li a, #helpfullinks li a{
@@ -96,11 +96,11 @@ a:hover {
 }
 
 #helpfullinks li{
-	color: #666;
+	color: #333;
 }
 
 .genericon, .genericon:visited {
-	color: #666;
+	color: #333;
 }
 
 .genericon:hover {
@@ -108,7 +108,7 @@ a:hover {
 }
 
 .blog-lists-title, .blog-lists-content{
-	color: #666;
+	color: #333;
 }
 
 .site-content ul{
@@ -184,4 +184,15 @@ a.no-decoration, a.no-decoration:hover
 {
 	text-decoration: none;
 	border: none;
+}
+
+#spider_popup_wrap a
+{
+	text-decoration: none;
+	border: none;
+}
+
+.site-footer
+{
+	color: #808080;
 }
