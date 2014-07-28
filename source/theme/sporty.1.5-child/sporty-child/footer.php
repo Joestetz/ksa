@@ -45,7 +45,7 @@
 	</div>
 
 		<div class="site-info">
-			<?php printf( __( 'Powered by %1$s. %2$s theme by %3$s.', 'sporty' ),'<a href="http://wordpress.org/" target="_blank">WordPress</a>', '<a href="http://www.templateexpress.com/sporty-theme/" target="_blank">sporty</a>', 'Ossie' ); ?>
+			<?php printf( __( 'Powered by %1$s. Original %2$s theme by %3$s.', 'sporty' ),'<a href="http://wordpress.org/" target="_blank">WordPress</a>', '<a href="http://www.templateexpress.com/sporty-theme/" target="_blank">sporty</a>', 'Ossie' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->
